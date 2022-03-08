@@ -1,4 +1,4 @@
-Footstep Sounds:
+ Footstep Sounds:
 https://freesound.org/people/Fission9/sounds/521590/
 
 Crossbow:
@@ -25,3 +25,6 @@ https://www.fesliyanstudios.com/royalty-free-music/download/castle-of-fear/2374
 
 Fire Blowup:
 https://assets.mixkit.co/sfx/download/mixkit-fast-game-explosion-1688.wav
+
+Player Hit:
+https://www.soundsnap.com/plate_armour_hit_01_wav
